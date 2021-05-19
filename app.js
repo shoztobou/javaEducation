@@ -143,6 +143,5 @@ function handleLinkClick(event) {
     var div = divs[0]
     div.style.display = div.style.display === 'none'
         ? 'flex'
-        : 'none'
-    
+        : 'none' 
 }
