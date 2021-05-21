@@ -7,4 +7,3 @@ document.querySelector('#randomize').addEventListener('click', function (event) 
 
 })
 
-
