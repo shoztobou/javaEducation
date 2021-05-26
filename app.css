@@ -1,0 +1,9 @@
+.GAME{
+  margin: 0;
+  padding: 40px 40px 40px 40px;
+  border-style:double;
+  border-radius: 14px;
+  display:flex;
+  color: #999;
+  font-size: 40px;
+}
