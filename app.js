@@ -24,3 +24,4 @@ document.addEventListener('DOMContentLoaded', function () {
         document.querySelector('h2').textContent = obj.text
     }
 })
+
