@@ -1,3 +1,30 @@
+.main{
+   display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+}
+.first-header{
+
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+
+}
+.second-header{
+
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+
+}
+
+button{
+height:40px;
+width:120px;
+}
 .GAME{
   margin: 0;
   padding: 40px 40px 40px 40px;

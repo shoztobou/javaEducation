@@ -2,7 +2,7 @@ var i = 10
 document.querySelector('#randomize').addEventListener('click', function (event) {
     var rand = Math.ceil(Math.random() * 100)
     document.querySelector('#result').textContent = rand
-    i++
+    i+=5
     document.querySelector('.form').style.fontSize = i + 'px'
 
 })
@@ -24,4 +24,3 @@ document.addEventListener('DOMContentLoaded', function () {
         document.querySelector('h2').textContent = obj.text
     }
 })
-
