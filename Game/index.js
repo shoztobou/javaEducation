@@ -7,18 +7,7 @@ var isGameStarted = false
 var $timeHeader = document.querySelector('#time-header')
 var $resultHeader = document.querySelector('#result-header ')
 var $gameTime = document.querySelector('#game-time')
-var colors = ['maroon',
-    'red',
-    'purple',
-    'fuchsia',
-    'green',
-    'lime',
-    'olive',
-    'yellow',
-    'navy',
-    'blue',
-    'teal',
-    'aqua']
+var colors = ['maroon', 'red', 'purple', 'fuchsia', 'green', 'lime', 'olive', 'yellow', 'navy', 'blue', 'teal', 'aqua']
 $start.addEventListener('click', startGame)
 $game.addEventListener('click', handleBoxClick)
 $gameTime.addEventListener('input', setGameTime)
