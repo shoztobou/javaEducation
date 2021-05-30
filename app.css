@@ -1,10 +1,25 @@
 .main{
    display: flex;
 flex-direction: column;
-justify-content: center;
+justify-content: space-around;
 align-items: center;
 }
+.first-header{
 
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+
+}
+.second-header{
+
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+
+}
 
 
 .GAME{
