@@ -21,7 +21,10 @@ align-items: center;
 
 }
 
-
+button{
+height:40px;
+width:120px;
+}
 .GAME{
   margin: 0;
   padding: 40px 40px 40px 40px;
